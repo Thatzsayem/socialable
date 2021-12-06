@@ -1,0 +1,6 @@
+package com.example.sociableapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
